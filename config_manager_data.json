@@ -1,0 +1,32 @@
+{
+  "managed_files": {
+    "file_0": "C:\\Users\\ckhar\\AppData\\Roaming\\OrcaSlicer\\user\\2636088508\\filament\\ELEGOO PLA Matte @Endorphin-5 0.4 nozzle.json",
+    "file_1": "C:\\Users\\ckhar\\AppData\\Roaming\\OrcaSlicer\\user\\2636088508\\filament\\base\\Creality PLA Plus @Creality Ender-5 0.4 nozzle.json",
+    "file_2": "C:\\Users\\ckhar\\AppData\\Roaming\\OrcaSlicer\\user\\2636088508\\filament\\base\\ELEGOO PLA Matte @Creality Ender-5 0.4 nozzle.json"
+  },
+  "file_counter": 3,
+  "backup_dir": "",
+  "auto_backup_enabled": true,
+  "detection_config": {
+    "app_name": "OrcaSlicer",
+    "subdirectories": [
+      "user"
+    ],
+    "file_patterns": [
+      "*.json",
+      "*.ini",
+      "*.conf"
+    ],
+    "exclude_patterns": [
+      "cache",
+      "temp",
+      "log"
+    ],
+    "search_dirs": [
+      "C:\\Users\\ckhar\\AppData\\Roaming",
+      "C:\\Users\\ckhar\\AppData\\Local",
+      "C:\\ProgramData",
+      "C:\\Users\\ckhar\\Documents"
+    ]
+  }
+}
