@@ -1,4 +1,13 @@
 """
+   .-------------.       .    .   *       *   
+  /_/_/_/_/_/_/_/ \         *       .   )    .
+ //_/_/_/_/_/_// _ \ __          .        .   
+/_/_/_/_/_/_/_/|/ \.' .`-o                    
+ |             ||-'(/ ,--'                    
+ |             ||  _ |                        
+ |             ||'' ||                        
+ |_____________|| |_|L                        
+ 
 File system watchdog module for monitoring directory changes.
 
 This module provides a simple interface to monitor file system events
